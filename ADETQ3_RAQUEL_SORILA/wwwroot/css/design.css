@@ -1,0 +1,29 @@
+
+
+
+.subject {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: justify;
+    padding-right: 10px;
+    text-indent: 10px;
+    font-size: 30px;
+    font-family: 'Arial Rounded MT';
+    text-align: center;
+  
+}
+
+.formbox {
+    width: 600px;
+    height: 170px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 170px;
+    left: 340px;
+    box-shadow: 0 5px 15px rgb(0, 38, 255);
+    
+}

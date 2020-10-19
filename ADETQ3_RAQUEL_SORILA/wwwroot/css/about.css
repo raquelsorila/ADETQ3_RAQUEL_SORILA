@@ -1,0 +1,102 @@
+.about {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: justify;
+    padding-right: 10px;
+    text-indent: 5px;
+    font-size: 15px;
+    font-family: 'Arial Unicode MS';
+    
+}
+
+.formbox1 {
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 110px;
+    left: 60px;
+    box-shadow: 0 5px 15px rgb(130, 11, 133)
+}
+
+.about2 {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: justify;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-indent: 5px;
+    font-size: 13px;
+    font-family: 'Arial Unicode MS';
+}
+
+.formbox2 {
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 110px;
+    left: 890px;
+    box-shadow: 0 5px 15px rgb(130, 11, 133)
+}
+
+
+.formbox3 {
+    width: 420px;
+    height: 200px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 100px;
+    left: 425px;
+    box-shadow: 0 5px 15px rgb(15, 31, 147)
+}
+
+.about3 {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: justify;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-indent: 5px;
+    font-size: 12px;
+    font-family: 'Arial Unicode MS';
+    text-align: center;
+}
+
+.formbox4 {
+    width: 420px;
+    height: 200px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 320px;
+    left: 425px;
+    box-shadow: 0 5px 15px rgb(15, 31, 147)
+}
+
+.about4 {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: #000000;
+    text-align: justify;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-indent: 5px;
+    font-size: 12px;
+    font-family: 'Arial Unicode MS';
+    text-align: center;
+}
